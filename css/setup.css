@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body * {
+  /* border: 2px solid black; */
+}
+
+body {
+  padding-bottom: 20px;
+}
+
+inner-column {
+  /* border: 2px solid black; */
+  display: block;
+  width: 98%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+student-cards {
+  display: block;
+}
+
+student {
+  display: block;
+  border-radius: 10px;
+  min-height: 200px;
+  border: 2px solid black;
+}
+
+a {
+  display: block;
+}
